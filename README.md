@@ -3,8 +3,6 @@ Balint Nemes
 
 I'm a beardy programmer with dyslexy and with its positives and negatives. I did achieved much since i learnt how to live and !work! with my gift.<br/> Since i'm development/progress driven-minded i'm looking for a challenging, diversive, friendly environment to work in, i'm also not afraid of doing repetetive things if those are not for life-time.
 
-_A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment._
-
 Skills
 ---
 
@@ -36,7 +34,12 @@ Here are some link of my works/contributions/involvements:
 
 This is my GitHub repo: [SquareBe](https://github.com/squarebe)
 
-My graduation work was the [AgileVentures](http://www.agileventures.org/) [WebSiteTwo](https://evening-oasis-1495.herokuapp.com/) project.
+
+other works links here:<br/>
+challenges:<br/>
+<br/>My graduation work was the [AgileVentures](http://www.agileventures.org/) [WebSiteTwo](https://evening-oasis-1495.herokuapp.com/) project.
+
+post-course work:
 
 _I achieved A during my work at B (job, or otherwise)_
 _I contributed to the growth of X while doing Y (job, or otherwise)_
@@ -44,9 +47,9 @@ _I built this, made this, broke this, fixed this, etc._
 _A link to some on-line evidence (blogs, videos, articles, etc.)_
 
 Education
+---
 
 Makers Academy (21.06.2015 - 9.10.2015)
----
 
 Curiosity and hungry passion for code
 Independent learner and problem-solver
