@@ -1,10 +1,13 @@
 Balint Nemes
 ------------
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I'm a beardy programmer with dyslexy and with its positives and negatives. I did achieved much since i learnt how to live and !work! with my gift. Since i'm development/progress driven-minded i'm looking for a challenging, diversive, friendly environment to work in, i'm also not afraid of doing repetetive things if those are not for life-time.
 
-Skills
-------
+_A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment._
+
+```
+it {is_expected}to_have content(Skills)
+```
 
 This Skill
 
