@@ -34,6 +34,12 @@ _Another Skill_
 
 _Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed._
 
+Here are some link of my works/contributions/involvements:
+
+This is my GitHub repo: [SquareBe](https://github.com/squarebe)
+
+My graduation work was the [AgileVentures](http://www.agileventures.org/) [WebSiteTwo](https://evening-oasis-1495.herokuapp.com/) project.
+
 _I achieved A during my work at B (job, or otherwise)_
 _I contributed to the growth of X while doing Y (job, or otherwise)_
 _I built this, made this, broke this, fixed this, etc._
@@ -54,7 +60,7 @@ Rspec, Jasmine
 Experience
 ----------
 
-I got 14 years of experience in logistics/warehousing on multiple levels, various environments, lots of employers.
+I got 14 years of experience in logistics/warehousing on multiple levels, various environments, lots of employers, pluss a few years in a bakery while i adapting to this new country.
 
 Nokia Display Products Hungary (1996-1997)
 
