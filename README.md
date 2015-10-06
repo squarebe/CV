@@ -9,21 +9,36 @@ _A sentence about who and what you are. Then a sentence about what you've achiev
 it {is_expected}to_have content(Skills)
 ```
 
-This Skill
+_Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed._
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+developing:
+Ruby,
+JavaScript,
+Node.js,
+Angular,
+Rails
 
-Experience
-Achievements
-Evidence
-Another Skill
+databases:
+DataMApper,
+PostgresQL
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+testing:
+rspec,
+capybara,
+jasmine
 
-I achieved A during my work at B (job, or otherwise)
-I contributed to the growth of X while doing Y (job, or otherwise)
-I built this, made this, broke this, fixed this, etc.
-A link to some on-line evidence (blogs, videos, articles, etc.)
+_Experience_
+_Achievements_
+_Evidence_
+_Another Skill_
+
+_Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed._
+
+_I achieved A during my work at B (job, or otherwise)_
+_I contributed to the growth of X while doing Y (job, or otherwise)_
+_I built this, made this, broke this, fixed this, etc._
+_A link to some on-line evidence (blogs, videos, articles, etc.)_
+
 Education
 
 Makers Academy (21.06.2015 - 9.10.2015)
