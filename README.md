@@ -1,7 +1,7 @@
 Balint Nemes
 ------------
 
-I'm a beardy programmer with dyslexy and with its positives and negatives. I did achieved much since i learnt how to live and !work! with my gift. Since i'm development/progress driven-minded i'm looking for a challenging, diversive, friendly environment to work in, i'm also not afraid of doing repetetive things if those are not for life-time.
+I'm a beardy programmer with dyslexy and with its positives and negatives. I did achieved much since i learnt how to live and !work! with my gift.<br/> Since i'm development/progress driven-minded i'm looking for a challenging, diversive, friendly environment to work in, i'm also not afraid of doing repetetive things if those are not for life-time.
 
 _A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment._
 
@@ -62,24 +62,12 @@ Experience
 
 I got 14 years of experience in logistics/warehousing on multiple levels, various environments, lots of employers, pluss a few years in a bakery while i adapting to this new country.
 
-Nokia Display Products Hungary (1996-1997)
+Nokia Display Products Hungary (1996-1997),<br/>warehouse operative
 
-warehouse operative
+Elcoteq Hungary (1998-2002),<br/>warehouse operative/team leader
 
-Elcoteq Hungary (1998-2002)
+Atlas-Copco Hungary (2005-2006),<br/>junior logistics/buyer/warehouse person/finance assistant
 
-warehouse operative/team leader
+Solectron Hungary (2006-2008),<br/>team leader of panasonic, sony-ericsson, NEC, HP-handheld project warehouses.
 
-Atlas-Copco Hungary (2005-2006)
-
-junior logistics/buyer/warehouse person/finance assistant
-
-Solectron Hungary (2006-2008)
-
-team leader of panasonic, sony-ericsson, NEC, HP-handheld project warehouses.
-
-Allied Bakeries Stoke (2010-2015)
-
-bakery operative
-
-Other, short-term job in between them.
+Allied Bakeries Stoke (2010-2015)<br/>bakery operative.<br/>Other, short-term job in between them.
