@@ -6,17 +6,17 @@ I'm a beardy programmer with dyslexy and with its positives and negatives. I did
 Skills
 ---
 
-_Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed._
+This is my GitHub repo: [SquareBe](https://github.com/squarebe)
 
-languages | skill | work to do
+languages | skill | link
 --- | --- | ---
-Ruby | average | 
-JavaScript | average | 
+Ruby | average | [Boris bikes](https://github.com/squarebe/boris-bikes-weekend)
+JavaScript | average | [Thermostat](https://github.com/squarebe/Thermostat)
 Node.js | average | 
 Angular | average | 
 Rails | average | 
 **databases** | **skill** | 
-DataMApper | strong | 
+DataMapper | strong | Bookmark manager
 PostgresQL | above average | 
 **testing** | **skill** | 
 rspec | strong | 
@@ -26,18 +26,12 @@ jasmine | average |
 _Experience_
 _Achievements_
 _Evidence_
-_Another Skill_
 
 _Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed._
 
 Here are some link of my works/contributions/involvements:
 
-This is my GitHub repo: [SquareBe](https://github.com/squarebe)
-
-
-other works links here:<br/>
-challenges:<br/>
-<br/>My graduation work was the [AgileVentures](http://www.agileventures.org/) [WebSiteTwo](https://evening-oasis-1495.herokuapp.com/) project.
+My graduation work was the [AgileVentures](http://www.agileventures.org/) [WebSiteTwo](https://evening-oasis-1495.herokuapp.com/) project.
 
 post-course work:
 
@@ -51,12 +45,12 @@ Education
 
 Makers Academy (21.06.2015 - 9.10.2015)
 
-Curiosity and hungry passion for code
-Independent learner and problem-solver
-OOP, TDD, SOLID, MVC, DDD
-Software Craftsmanship
-Ruby, Rails, Javascript, Node.js, Angular.js
-Rspec, Jasmine
+>Curiosity and hungry passion for code
+>Independent learner and problem-solver
+>OOP, TDD, SOLID, MVC, DDD
+>Software Craftsmanship
+>Ruby, Rails, Javascript, Node.js, Angular.js
+>Rspec, Jasmine
 
 Experience
 ---
