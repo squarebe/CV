@@ -23,10 +23,6 @@ rspec |
 capybara | 
 jasmine | 
 
-_Experience_
-_Achievements_
-_Evidence_
-
 _Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed._
 
 Here are some link of my works/contributions/involvements:
@@ -45,12 +41,7 @@ Education
 
 Makers Academy (21.06.2015 - 9.10.2015)
 
->Curiosity and hungry passion for code
->Independent learner and problem-solver
->OOP, TDD, SOLID, MVC, DDD
->Software Craftsmanship
->Ruby, Rails, Javascript, Node.js, Angular.js
->Rspec, Jasmine
+Got my first glimpse of programming and made me fall in love into it. Learnt a lot of acrynoms like: OOP, TDD, MVP, SOLID, BDD, MVC, DDD, languages: Ruby, Rails, Javascript, Node.js, JQuery, Angular.js, Rspec, Jasmine
 
 Experience
 ---
