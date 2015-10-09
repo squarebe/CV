@@ -8,20 +8,20 @@ Skills
 
 This is my GitHub repo: [SquareBe](https://github.com/squarebe)
 
-languages | skill | link
---- | --- | ---
-Ruby | average | [Boris bikes](https://github.com/squarebe/boris-bikes-weekend)
-JavaScript | average | [Thermostat](https://github.com/squarebe/Thermostat)
-Node.js | average | 
-Angular | average | 
-Rails | average | 
-**databases** | **skill** | 
-DataMapper | strong | Bookmark manager
-PostgresQL | above average | 
-**testing** | **skill** | 
-rspec | strong | 
-capybara | strong | 
-jasmine | average | 
+languages | link
+--- | ---
+Ruby | [Boris bikes](https://github.com/squarebe/boris-bikes-weekend)
+JavaScript | [Thermostat](https://github.com/squarebe/Thermostat)
+Node.js | 
+Angular | 
+Rails | 
+**databases** | 
+DataMapper | Bookmark manager
+PostgresQL | 
+**testing** | 
+rspec | 
+capybara | 
+jasmine | 
 
 _Experience_
 _Achievements_
@@ -59,7 +59,7 @@ I got 14 years of experience in logistics/warehousing on multiple levels, variou
 
 Nokia Display Products Hungary (1996-1997),<br/>warehouse operative<br/>Nothing special just putting things from A to B, count them, etc...
 
-Elcoteq Hungary (1998-2002),<br/>warehouse operative/team leader<br/>I was a member of a six-sigma team to filter out the bottle-necks in production, gave me a really good error-pinpointing skill in an already working environment. When we were QS9000 certified we got a contract from NASA - not a big deal making circuit-boards for weather ballons but NASA its on my CV.
+Elcoteq Hungary (1998-2002),<br/>warehouse operative/team leader<br/>I was a member of a six-sigma team to filter out the bottle-necks in production, gave me a really good error-pinpointing skill in an already working environment. When we were QS9000 certified we got a contract from NASA - not a big deal making circuit-boards for weather ballons but NASA. Its on my CV.
 
 Atlas-Copco Hungary (2005-2006),<br/>junior logistics/buyer/warehouse person/finance assistant<br/>First proper all-round job with international organising/shipping/buying duties.
 
