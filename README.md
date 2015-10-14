@@ -13,7 +13,7 @@ languages | link
 Ruby | [Boris bikes](https://github.com/squarebe/boris-bikes-weekend)
 JavaScript | [Thermostat](https://github.com/squarebe/Thermostat)
 Node.js | 
-Angular | 
+Angular | [GitHub app](https://github.com/squarebe/GitUserApp2)
 Rails | 
 **databases** | 
 DataMapper | Bookmark manager
