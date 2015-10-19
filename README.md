@@ -11,17 +11,17 @@ This is my GitHub repo: [SquareBe](https://github.com/squarebe)
 languages | link
 --- | ---
 Ruby | [Boris bikes](https://github.com/squarebe/boris-bikes-weekend)
-JavaScript | [Thermostat](https://github.com/squarebe/Thermostat)
-Node.js | 
+JavaScript | [Thermostat](https://github.com/squarebe/Thermostat2)
+Jquery | [Thermostat](https://github.com/squarebe/Thermostat2)
 Angular | [GitHub app](https://github.com/squarebe/GitUserApp2)
 Rails | 
 **databases** | 
 DataMapper | Bookmark manager
 PostgresQL | 
 **testing** | 
-rspec | 
+rspec | [Boris bikes](https://github.com/squarebe/boris-bikes-weekend)
 capybara | 
-jasmine | 
+jasmine | [Thermostat](https://github.com/squarebe/Thermostat2)
 
 _Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed._
 
