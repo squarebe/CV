@@ -15,6 +15,8 @@ JavaScript | [Thermostat](https://github.com/squarebe/Thermostat2)
 Jquery | [Thermostat](https://github.com/squarebe/Thermostat2)
 Angular | [GitHub app](https://github.com/squarebe/GitUserApp2)
 Rails | 
+**Front-end** | 
+HTML & CSS | [Thermostat](https://github.com/squarebe/Thermostat2)
 **databases** | 
 DataMapper | Bookmark manager
 PostgresQL | 
