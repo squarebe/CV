@@ -1,7 +1,7 @@
 Balint Nemes
 ---
 
-I'm a beardy programmer with dyslexy and with its positives and negatives who is eager to create. I did achieved much since i learnt how to live and !work! with my gift.<br/> Since i'm development/progress driven-minded i'm looking for a challenging, diversive, friendly environment to work in, i'm also not afraid of doing repetetive things if those are not for life-time.
+I'm a beardy programmer with dyslexy and with its positives and negatives who is eager to create. I did achieved much since I learnt how to live and !work! with my gift.<br/> Since I'm development/progress driven-minded I'm looking for a challenging, diversive, friendly environment to work in, I'm also not afraid of doing repetetive things if those are not for life-time.
 
 Skills
 ---
@@ -48,7 +48,7 @@ Got my first glimpse of programming and made me fall in love into it. Learnt a l
 Experience
 ---
 
-I got 14 years of experience in logistics/warehousing on multiple levels, various environments, lots of employers, pluss a few years in a bakery while i adapting to this new country.
+I got 14 years of experience in logistics/warehousing on multiple levels, various environments, lots of employers, pluss a few years in a bakery while I adapting to this new country.
 
 Nokia Display Products Hungary (1996-1997),<br/>warehouse operative<br/>Nothing special just putting things from A to B, count them, etc...
 
