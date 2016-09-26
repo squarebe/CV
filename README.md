@@ -25,18 +25,9 @@ rspec | [Boris bikes](https://github.com/squarebe/boris-bikes-weekend)
 capybara | 
 jasmine | [Thermostat](https://github.com/squarebe/Thermostat2)
 
-_Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed._
-
 Here are some link of my works/contributions/involvements:
 
 My graduation work was the [AgileVentures](http://www.agileventures.org/) [WebSiteTwo](https://evening-oasis-1495.herokuapp.com/) project.
-
-post-course work:
-
-_I achieved A during my work at B (job, or otherwise)_
-_I contributed to the growth of X while doing Y (job, or otherwise)_
-_I built this, made this, broke this, fixed this, etc._
-_A link to some on-line evidence (blogs, videos, articles, etc.)_
 
 Education
 ---
