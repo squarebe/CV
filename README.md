@@ -1,5 +1,6 @@
 Balint Nemes
 ---
+balintnemes76@gmail.com<br/>07827341613
 
 I'm a beardy programmer with dyslexy and with its positives and negatives who is eager to create. I did achieved much since I learnt how to live and !work! with my gift.<br/> Since I'm development/progress driven-minded I'm looking for a challenging, diversive, friendly environment to work in, I'm also not afraid of doing repetetive things if those are not for life-time.
 
